@@ -1,0 +1,28 @@
+﻿.cat{
+    width:200px;
+    height:300px;
+}
+
+body {
+    background-image: url("../images/backg.jpg");
+    background-repeat:repeat;
+}
+
+p{
+    color:deeppink;
+}
+
+h2{
+    color:blue;
+    font-size:25px;
+}
+
+h1{
+    color:fuchsia;
+
+}
+
+.toto{
+    margin-top:150px;
+    background-color:violet;
+}
